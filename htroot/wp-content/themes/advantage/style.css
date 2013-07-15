@@ -1,0 +1,25 @@
+/*!
+Theme Name: Advantage
+Theme URI: http://www.xinthemes.com/advantage-theme
+Author URI: http://www.xinthemes.com/
+
+Description: Advantage is a business theme based on Twitter Bootstrap Framework. It features a full-width slider and easy to use marketing widget.
+Author: XinThemes
+
+Version: 1.0.3
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Tags: two-columns, three-columns, flexible-width, custom-header, custom-background, threaded-comments, sticky-post, custom-menu, full-width-template, theme-options, post-formats, left-sidebar, right-sidebar, featured-images
+
+Text Domain: advantage
+
+Advantage WordPress Theme, Copyright (C) 2013 Stephen Cui
+----------------------------------------------------------------- */
+/* Surprised to see empty stylesheet? Please note that Advantage
+ * uses minified verion of stylesheet. The source is located on 
+ * dev/advantage.css. You may use one of the follow options:
+ * 1. Save Custom CSS in Theme Options
+ * 2. Create a Child Theme. Advantage will include Child Theme's
+ * style.css automatically.
+----------------------------------------------------------------- */

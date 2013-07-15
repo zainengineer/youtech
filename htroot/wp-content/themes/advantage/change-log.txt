@@ -1,0 +1,7 @@
+== Changelog ==
+
+= 1.0.3 =
+* Backend Xin Framework change  
+
+= 1.0.2 =
+* Initial release

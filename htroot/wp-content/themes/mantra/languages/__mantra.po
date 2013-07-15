@@ -1,0 +1,2118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mantra204\n"
+"POT-Creation-Date: 2013-06-17 14:04+0200\n"
+"PO-Revision-Date: 2013-06-17 14:05+0200\n"
+"Last-Translator: Cryout Creations\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\K\\Desktop\\mantra\n"
+
+#: C:\Users\K\Desktop\mantra/404.php:17
+msgid "Not Found"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/404.php:19
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:28
+msgid "F Y"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:30
+msgid "Y"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:58
+#: C:\Users\K\Desktop\mantra/author.php:75
+#: C:\Users\K\Desktop\mantra/category.php:51
+#: C:\Users\K\Desktop\mantra/index.php:41
+#: C:\Users\K\Desktop\mantra/search.php:41
+#: C:\Users\K\Desktop\mantra/tag.php:52
+#: C:\Users\K\Desktop\mantra/template-blog.php:36
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/archive.php:62
+#: C:\Users\K\Desktop\mantra/author.php:79
+#: C:\Users\K\Desktop\mantra/category.php:55
+#: C:\Users\K\Desktop\mantra/index.php:45 C:\Users\K\Desktop\mantra/tag.php:56
+#: C:\Users\K\Desktop\mantra/template-blog.php:40
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:29
+msgid "By"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:40
+msgid "Published"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:53
+msgid "Link to full-size image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:60
+#: C:\Users\K\Desktop\mantra/attachment.php:107
+#: C:\Users\K\Desktop\mantra/content-aside.php:48
+#: C:\Users\K\Desktop\mantra/content-chat.php:49
+#: C:\Users\K\Desktop\mantra/content-gallery.php:65
+#: C:\Users\K\Desktop\mantra/content-image.php:42
+#: C:\Users\K\Desktop\mantra/content-link.php:49
+#: C:\Users\K\Desktop\mantra/content-page.php:22
+#: C:\Users\K\Desktop\mantra/content-quote.php:46
+#: C:\Users\K\Desktop\mantra/content-status.php:48
+#: C:\Users\K\Desktop\mantra/content.php:76
+#: C:\Users\K\Desktop\mantra/single.php:54
+#: C:\Users\K\Desktop\mantra/template-onecolumn.php:27
+#: C:\Users\K\Desktop\mantra/template-page-with-intro.php:17
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:100
+msgid "Continue reading"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/attachment.php:101
+#: C:\Users\K\Desktop\mantra/content-aside.php:39
+#: C:\Users\K\Desktop\mantra/content-chat.php:38
+#: C:\Users\K\Desktop\mantra/content-gallery.php:55
+#: C:\Users\K\Desktop\mantra/content-image.php:33
+#: C:\Users\K\Desktop\mantra/content-link.php:38
+#: C:\Users\K\Desktop\mantra/content-page.php:21
+#: C:\Users\K\Desktop\mantra/content-quote.php:36
+#: C:\Users\K\Desktop\mantra/content-status.php:39
+#: C:\Users\K\Desktop\mantra/content.php:49
+#: C:\Users\K\Desktop\mantra/content.php:65
+#: C:\Users\K\Desktop\mantra/single.php:32
+#: C:\Users\K\Desktop\mantra/template-onecolumn.php:26
+#: C:\Users\K\Desktop\mantra/template-page-with-intro.php:16
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/author.php:50
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-aside.php:20
+msgid "Aside"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-aside.php:38
+#: C:\Users\K\Desktop\mantra/content-chat.php:37
+#: C:\Users\K\Desktop\mantra/content-gallery.php:33
+#: C:\Users\K\Desktop\mantra/content-image.php:32
+#: C:\Users\K\Desktop\mantra/content-link.php:37
+#: C:\Users\K\Desktop\mantra/content-quote.php:35
+#: C:\Users\K\Desktop\mantra/content-status.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-aside.php:46
+#: C:\Users\K\Desktop\mantra/content-chat.php:45
+#: C:\Users\K\Desktop\mantra/content-gallery.php:62
+#: C:\Users\K\Desktop\mantra/content-image.php:39
+#: C:\Users\K\Desktop\mantra/content-link.php:45
+#: C:\Users\K\Desktop\mantra/content-quote.php:43
+#: C:\Users\K\Desktop\mantra/content-status.php:46
+#: C:\Users\K\Desktop\mantra/content.php:74
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:185
+msgid "Tagged"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-chat.php:20
+msgid "Chat"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-gallery.php:20
+msgid "Gallery"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-image.php:19
+#: C:\Users\K\Desktop\mantra/admin/settings.php:464
+#: C:\Users\K\Desktop\mantra/admin/settings.php:479
+#: C:\Users\K\Desktop\mantra/admin/settings.php:494
+#: C:\Users\K\Desktop\mantra/admin/settings.php:509
+#: C:\Users\K\Desktop\mantra/admin/settings.php:524
+#: C:\Users\K\Desktop\mantra/admin/settings.php:566
+#: C:\Users\K\Desktop\mantra/admin/settings.php:581
+#: C:\Users\K\Desktop\mantra/admin/settings.php:596
+#: C:\Users\K\Desktop\mantra/admin/settings.php:611
+msgid "Image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-link.php:20
+#: C:\Users\K\Desktop\mantra/admin/settings.php:471
+#: C:\Users\K\Desktop\mantra/admin/settings.php:486
+#: C:\Users\K\Desktop\mantra/admin/settings.php:501
+#: C:\Users\K\Desktop\mantra/admin/settings.php:516
+#: C:\Users\K\Desktop\mantra/admin/settings.php:531
+#: C:\Users\K\Desktop\mantra/admin/settings.php:573
+#: C:\Users\K\Desktop\mantra/admin/settings.php:588
+#: C:\Users\K\Desktop\mantra/admin/settings.php:603
+#: C:\Users\K\Desktop\mantra/admin/settings.php:618
+msgid "Link"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-page.php:27
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:136
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-quote.php:18
+msgid "Quote"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/content-status.php:30
+msgid "Status"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/search.php:39
+#, php-format
+msgid "No search results for: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/searchform.php:1
+msgid "Search"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/single.php:45
+msgid "View all posts by "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:62
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:70
+msgid "Import Mantra Theme Options"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:72
+msgid ""
+"Hi! This is where you import the  Mantra settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:74
+msgid "Just choose a file from your computer:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:76
+#, php-format
+msgid "Maximum size: %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:82
+msgid "And import!"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:148
+msgid "Import Mantra Theme Options "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:151
+msgid "Great! The options have been imported!"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:152
+msgid "Go back to the Mantra options page and check them out!"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:155
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:161
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:167
+msgid "Oops, there's a small problem."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:156
+msgid ""
+"The uploaded file does not contain valid Mantra options. Make sure the file "
+"is exported from the Mantra Options page."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:162
+msgid "The uploaded file could not be read."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:168
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Mantra page and that it is a text file."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:177
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/admin-functions.php:183
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:100
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:101
+msgid "Header Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:102
+msgid "Presentation Page"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:103
+msgid "Text Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:104
+msgid "Color Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:105
+msgid "Graphics Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:106
+msgid "Post Information Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:107
+msgid "Post Excerpt Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:108
+msgid "Featured Image Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:109
+msgid "Social Media Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:110
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:113
+msgid "Main Layout"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:114
+msgid "Content / Sidebar Width"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:115
+msgid "Responsiveness"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:118
+msgid "Enable Presentation Page"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:119
+msgid "Slider Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:120
+msgid "Slides"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:121
+msgid "Presentation Page Columns"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:122
+msgid "Extras"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:125
+msgid "Header Height"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:126
+msgid "Header Image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:127
+msgid "Site Header"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:128
+msgid "Custom Logo Upload"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:129
+msgid "Header Spacing"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:130
+msgid "Rounded Menu Corners"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:131
+msgid "FavIcon Upload"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:133
+msgid "General Font"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:134
+msgid "General Font Size"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:135
+msgid "Post Title Font "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:136
+msgid "Post Title Font Size"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:137
+msgid "Sidebar Font"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:138
+msgid "SideBar Font Size"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:139
+msgid "Sub-Headers Font"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:140
+msgid "Force Text Align"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:141
+msgid "Paragraph indent"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:142
+msgid "Header indent"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:143
+msgid "Line Height"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:144
+msgid "Word spacing"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:145
+msgid "Letter spacing"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:146
+msgid "Text shadow"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:148
+msgid "Background Image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:149
+msgid "Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:150
+msgid "Header (Banner and Menu) Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:151
+msgid "Content Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:152
+msgid "Menu Items Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:153
+msgid "First Sidebar Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:154
+msgid "Second Sidebar Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:156
+msgid "Site Title Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:157
+msgid "Site Description Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:159
+msgid "Content Text Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:160
+msgid "Links Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:161
+msgid "Links Hover Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:162
+msgid "Post Title Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:163
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:164
+msgid "Sidebar Header Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:165
+msgid "Sidebar Header Text Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:166
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:167
+msgid "Footer Background Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:168
+msgid "Footer Widget Header Text Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:169
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:170
+msgid "Footer Widget Hover Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:172
+msgid "Breadcrumbs"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:173
+msgid "Pagination"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:174
+msgid "Post Images Border"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:175
+msgid "Caption Border"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:176
+msgid "Caption Pin"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:177
+msgid "Sidebar Menu Bullets"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:178
+msgid "Meta Area Background"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:179
+msgid "Post Separator"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:180
+msgid "Content List Bullets"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:181
+msgid "Page Titles"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:182
+msgid "Category Page Titles"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:183
+msgid "Hide Tables"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:184
+msgid "Back to Top button"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:185
+msgid "Text Under Comments"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:186
+msgid "Comments are closed text"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:187
+msgid "Comments off"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:189
+msgid "Post Comments Link"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:190
+msgid "Post Date"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:191
+msgid "Post Time"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:192
+msgid "Post Author"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:193
+msgid "Post Category"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:194
+msgid "Meta Bar"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:195
+msgid "Post Tags"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:196
+msgid "Post Permalink"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:198
+msgid "Post Excerpts on Home Page"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:199
+msgid "Affect Sticky Posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:200
+msgid "Post Excerpts on Archive and Category Pages"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:201
+msgid "Number of Words for Post Excerpts "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:202
+msgid "Magazine Layout"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:203
+msgid "Excerpt suffix"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:204
+msgid "Continue reading link text "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:205
+msgid "HTML tags in Excerpts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:207
+msgid "Featured Images as POST Thumbnails "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:208
+msgid "Auto Select Images From Posts "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:209
+msgid "Thumbnails Alignment "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:210
+msgid "Thumbnails Size "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:211
+msgid "Featured Images as HEADER Images "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:213
+msgid "Link nr. 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:214
+msgid "Link nr. 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:215
+msgid "Link nr. 3"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:216
+msgid "Link nr. 4"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:217
+msgid "Link nr. 5"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:218
+msgid "Socials display"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:220
+msgid "SEO Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:221
+msgid "Custom Footer Text"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:222
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:223
+msgid "Custom JavaScript"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:240
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:262
+msgid "Mantra settings updated successfully."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:275
+msgid "Reset to Defaults"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:307
+msgid "Import/Export Settings"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:313
+msgid "Export Theme options"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:314
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Mantra "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:319
+msgid "Import Theme options"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:320
+msgid ""
+" Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:328
+msgid "Mantra Latest News"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/main.php:339
+msgid "No news items."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:66
+msgid "One column (no sidebars)"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:67
+msgid "Two columns,  sidebar on the right"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:68
+msgid "Two columns,  sidebar on the left"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:69
+msgid "Three columns, sidebars on the right"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:70
+msgid "Three columns, sidebars on the left"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:71
+msgid "Three columns, one sidebar on each side"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:86
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or\n"
+"\t\tright and two sidebars on each side."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:95
+msgid "Absolute"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:95
+msgid "Relative *DEPRECATED"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:96
+msgid "Dimensions to use: "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:190
+#: C:\Users\K\Desktop\mantra/admin/settings.php:210
+msgid "Content ="
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:191
+#: C:\Users\K\Desktop\mantra/admin/settings.php:211
+msgid "Sidebar(s) ="
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:192
+#: C:\Users\K\Desktop\mantra/admin/settings.php:212
+msgid "Total width ="
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:201
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tWhile the content cannot be less than 500px wide, the sidebar area is "
+"at least 220px and no more than 800px.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:221
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>.\n"
+" \t\tThese are realtive dimmensions - relative to the user's browser. The "
+"total width is a percentage of the browser's width.<br />\n"
+"\t While the content cannot be less than 40% wide, the sidebar area is at "
+"least 20% and no more than 50%.<br />\n"
+"\tIf you went for a 3 column area ( with 2 sidebars) they will each have "
+"half the selected width."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:235
+#: C:\Users\K\Desktop\mantra/admin/settings.php:258
+#: C:\Users\K\Desktop\mantra/admin/settings.php:724
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1072
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1134
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1322
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1337
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1494
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1556
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1757
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1786
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1809
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1832
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1881
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2017
+msgid "Enable"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:235
+#: C:\Users\K\Desktop\mantra/admin/settings.php:258
+#: C:\Users\K\Desktop\mantra/admin/settings.php:724
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1072
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1134
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1322
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1337
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1494
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1556
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1757
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1786
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1809
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1832
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1881
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2017
+msgid "Disable"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:244
+msgid ""
+"Enable to make Mantra fully responsive. The layout and general sizes of your "
+"blog will adjust depending on what device and what resolution it is viewed "
+"in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:266
+msgid ""
+"Enable the presentation front-page. This will become your new home page. It "
+"has a slider and columns for presentation\n"
+"\t\ttext and images.<br>If you have this enabled but don't see a "
+"Presentation page then go to <a href='options-reading.php'> Settings &raquo; "
+"Reading </a> and make sure you have selected <strong>Front Page Displays</"
+"strong> as <Strong>Your Latest Posts</strong>."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:276
+msgid "Slider Dimensions:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:277
+msgid "width"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:278
+msgid "height"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:279
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:281
+msgid "Animation:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "Random"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "Fold"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "Fade"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SlideInRight"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SlideInLeft"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceDown"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceDownLeft"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceUp"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceUpLeft"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceUpDown"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "SliceUpDownLeft"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "BoxRandom"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "BoxRain"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "BoxRainReverse"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "BoxRainGrow"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:283
+msgid "BoxRainGrowReverse"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:291
+msgid "The transition effect your slider will have."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:293
+msgid "Border Settings:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:294
+msgid "Width"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:295
+msgid "Color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:297
+msgid "The width and color of the slider's border."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:299
+msgid "Animation Time:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:300
+#: C:\Users\K\Desktop\mantra/admin/settings.php:304
+msgid "milliseconds"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:301
+msgid "The time in which the transition animation will take place."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:303
+msgid "Pause Time:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:305
+msgid "The time in which a slide will be still and visible."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:308
+msgid "Slider navigation:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:310
+msgid "Numbers"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:310
+msgid "Bullets"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:310
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1415
+msgid "None"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:318
+msgid "Your slider navigation type. Shown under the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:320
+msgid "Slider arrows:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:322
+msgid "Always Visible"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:322
+msgid "Visible on Hover"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:322
+msgid "Hidden"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:330
+msgid "The Left and Right arrows on your slider"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:371
+#: C:\Users\K\Desktop\mantra/admin/settings.php:440
+msgid "Select Category"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Custom Slides"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Random Posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Sticky Posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Latest Posts from Category"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Random Posts from Category"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:398
+msgid "Specific Posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:407
+msgid ""
+"Your slides' content. Only the image is required, all other fields are "
+"optional. Only the slides with an image selected will become acitve and "
+"visible in the live slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:412
+msgid "Latest posts will be loaded into the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:416
+msgid "Random  posts will be loaded into the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:420
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:425
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:429
+msgid "Only sticky posts will be loaded into the slider."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:433
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:438
+msgid "<br> Choose the cateogry: "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:455
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:462
+msgid "Slide 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:466
+#: C:\Users\K\Desktop\mantra/admin/settings.php:481
+#: C:\Users\K\Desktop\mantra/admin/settings.php:496
+#: C:\Users\K\Desktop\mantra/admin/settings.php:511
+#: C:\Users\K\Desktop\mantra/admin/settings.php:526
+#: C:\Users\K\Desktop\mantra/admin/settings.php:568
+#: C:\Users\K\Desktop\mantra/admin/settings.php:583
+#: C:\Users\K\Desktop\mantra/admin/settings.php:598
+#: C:\Users\K\Desktop\mantra/admin/settings.php:613
+#: C:\Users\K\Desktop\mantra/admin/settings.php:759
+#: C:\Users\K\Desktop\mantra/admin/settings.php:782
+msgid "Select / Upload Image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:467
+#: C:\Users\K\Desktop\mantra/admin/settings.php:482
+#: C:\Users\K\Desktop\mantra/admin/settings.php:497
+#: C:\Users\K\Desktop\mantra/admin/settings.php:512
+#: C:\Users\K\Desktop\mantra/admin/settings.php:527
+#: C:\Users\K\Desktop\mantra/admin/settings.php:569
+#: C:\Users\K\Desktop\mantra/admin/settings.php:584
+#: C:\Users\K\Desktop\mantra/admin/settings.php:614
+msgid "Title"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:469
+#: C:\Users\K\Desktop\mantra/admin/settings.php:484
+#: C:\Users\K\Desktop\mantra/admin/settings.php:499
+#: C:\Users\K\Desktop\mantra/admin/settings.php:514
+#: C:\Users\K\Desktop\mantra/admin/settings.php:529
+#: C:\Users\K\Desktop\mantra/admin/settings.php:571
+#: C:\Users\K\Desktop\mantra/admin/settings.php:586
+#: C:\Users\K\Desktop\mantra/admin/settings.php:601
+#: C:\Users\K\Desktop\mantra/admin/settings.php:616
+msgid "Text"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:477
+msgid "Slide 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:492
+msgid "Slide 3"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:507
+msgid "Slide 4"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:522
+msgid "Slide 5"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:544
+msgid "Number of columns:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:554
+msgid "Image Height:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:557
+msgid "Read more text:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:560
+msgid ""
+"The linked text that appears at the bottom of all the columns. You can "
+"delete all text inside if you don't want it."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:564
+msgid "1st Column"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:579
+msgid "2nd Column"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:594
+msgid "3rd Column"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:609
+msgid "4th Column"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:631
+msgid "Extra Text"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:633
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.\n"
+"\t\t It's all optional so leave any input field empty if it's not required. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:636
+msgid "Top Title"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:637
+msgid "Second Title"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:640
+msgid "Title color"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:644
+msgid "Bottom Text 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:646
+msgid "Bottom Text 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:654
+msgid "Hide areas"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:656
+msgid "Choose the areas to hide on the first page."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:668
+msgid "Hide the header area (image or background color)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:672
+msgid "Hide the main menu (the top navigation tabs)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:676
+msgid "Hide the footer widgets. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:680
+msgid "Hide the footer (copyright area)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:684
+msgid "Hide the white color. Only the background color remains."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:708
+msgid ""
+"Select the header's height. After saving the settings make sure you reupload "
+"a new header image (if you're using one). The header's width will be = "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:714
+msgid "Define header image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:732
+msgid "Enable or disable the round corners for the main menu items."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:740
+msgid "Site Title and Description"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:740
+msgid "Custom Logo"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:740
+msgid "Clickable header image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:740
+msgid "Empty"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:748
+msgid "Choose what to display inside your header area."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:758
+msgid ""
+"Custom Logo upload. The logo will appear over the heder image if you have "
+"used one."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:767
+msgid "top"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:768
+msgid "left"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:771
+msgid ""
+"Select the top spacing for the header. Use it to better position your site "
+"title and description or custom logo inside the header. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:781
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br/><b>Note that "
+"some browsers do not display the changed favicon instantly.</b>"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:804
+msgid ""
+"Select the font size you'll use in your blog. Pages, posts and comments will "
+"be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:848
+msgid ""
+"Select the font family you'll use in your blog. All content text will be "
+"affected (including menu buttons). "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:850
+#: C:\Users\K\Desktop\mantra/admin/settings.php:900
+#: C:\Users\K\Desktop\mantra/admin/settings.php:951
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1003
+msgid ""
+"Or insert your Google Font below. Please only isert the <strong>name</"
+"strong> of the font.<br /> Ex: Marko One. Go to <a href='http://www.google."
+"com/webfonts' > google fonts </a> for some font inspiration."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:897
+msgid ""
+"Select the font family you want for your titles. It will affect post titles "
+"and page titles. Leave 'Default' and the general font you selected will be "
+"used."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:949
+msgid ""
+"Select the font family you want your sidebar(s) to have. Text in sidebars "
+"will be affected, including any widgets. Leave 'Default' and the general "
+"font you selected will be used."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1000
+msgid ""
+"Select the font family you want your subheaders to have (h2 - h6 tags will "
+"be affected). Leave 'Default' and the general font you selected will be used."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1012
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1027
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1042
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1087
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1102
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1117
+msgid "Default"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1020
+msgid ""
+"Post Header Font size. Leave 'Default' for normal settings (size value will "
+"be as set in the CSS)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1035
+msgid ""
+"Sidebar Font size. Leave 'Default' for normal settings (size value will be "
+"as set in the CSS)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1042
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1848
+msgid "Left"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1042
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1848
+msgid "Right"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1042
+msgid "Justify"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1042
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1848
+msgid "Center"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1050
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1064
+msgid "Choose the indent for your paragraphs."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1080
+msgid "Disable the default header and title indent (left margin)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1095
+msgid ""
+"Text line height. The height between 2 rows of text. Leave 'Default' for "
+"normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1110
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1125
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1142
+msgid "Disable the default text shadow on headers and titles."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1150
+msgid "Define background image"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1159
+msgid "Background color (Default value is 444444)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1167
+msgid ""
+"Header background color (Default value is 333333). You can delete all inside "
+"text for no background color."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1174
+msgid ""
+"Content background color (Default value is FFFFFF). Works best with really "
+"light colors."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1181
+msgid ""
+"Main menu background color (Default value is FAFAFA). Should be the same "
+"color as the content bg or something just as light."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1188
+msgid ""
+"First sidebar background color (Default is no color for a transparent "
+"sidebar)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1195
+msgid ""
+"Second sidebar background color (Default is no color for a transparent "
+"sidebar)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1203
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1211
+msgid "Footer background color (Default value is 222222)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1219
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1227
+msgid "Your blog's description color(Default value is 222222)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1235
+msgid "Content Text Color (Default value is 333333)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1243
+msgid "Links color (Default value is 0D85CC)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1251
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1259
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1267
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1275
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1284
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1292
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1300
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1308
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1330
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1345
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1415
+msgid "White"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+msgid "Light"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+msgid "Light Gray"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1415
+msgid "Gray"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+msgid "Dark Gray"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1352
+msgid "Black"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1360
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1376
+msgid "The border around your inserted images. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1391
+msgid "The image on top of your captions. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1406
+msgid "The sidebar list bullets. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1423
+msgid ""
+"The background for your post-metas area (under your post tiltes). Gray by "
+"default."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1431
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1447
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1464
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1479
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1509
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1524
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1540
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1576
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1591
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1606
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1621
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1636
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1651
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1666
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1681
+msgid "Show"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1431
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1447
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1464
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1479
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1509
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1540
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1576
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1591
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1606
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1621
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1636
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1651
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1666
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1681
+msgid "Hide"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1439
+msgid "Hide or show a horizontal rule to separate posts."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1455
+msgid ""
+"Hide or show  bullets next to lists that are in your content area (posts, "
+"pages etc.)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1472
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1487
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1502
+msgid "Hide table borders and background color."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1517
+msgid ""
+"Hide the explanatory text under the comments form. (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1524
+msgid "Hide in posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1524
+msgid "Hide in pages"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1524
+msgid "Hide everywhere"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1532
+msgid ""
+"Hide the  <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with the comments disabled."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1548
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1564
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1584
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1599
+msgid "Hide or show the post date."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1614
+msgid ""
+"Show the post time with the date. Time will not be visible if the Post Date "
+"is hidden."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1629
+msgid "Hide or show the post author."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1644
+msgid "Hide the post category."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1659
+msgid "Hide the 'Bookmark permalink'."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1674
+msgid "Hide the meta bar. All meta info in it will be hidden."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1689
+msgid "Hide the post tags."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1702
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1717
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1733
+msgid "Excerpt"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1702
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1717
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1733
+msgid "Full Post"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1710
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1725
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1741
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1749
+msgid ""
+"The number of words an excerpt will have. When that number is reached the "
+"post will be interrupted by a <i>Continue reading</i> link that\n"
+"\t\t\t\t\t\t\twill take the reader to the full post page."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1765
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1772
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1779
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1794
+msgid "By default WordPress excerpts remove all HTML tags ("
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1825
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1840
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If you "
+"enable this option, the first image in your post will be used even if you "
+"selected a Featured Image in you post."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1856
+msgid "Thumbnail alignment."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1873
+msgid ""
+"The size you want the thumbnails to have (in pixels). By default imges will "
+"be scaled with aspect ratio kept. Choose to crop the images if you want the "
+"exact size."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1889
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and\n"
+"\t\t\t\t\t\t\tand if it is bigger or at least equal to the current header "
+"size."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1905
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1906
+msgid "You can insert up to 5 different social sites and addresses."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1907
+msgid "There are a total of 27 social networks to choose from. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1908
+msgid "You can leave any number of inputs empty. "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1909
+msgid "You can choose the same social media any number of times.  "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1984
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:1997
+msgid ""
+"Insert custom text or HTML code that will appear last in you footer. <br /> "
+"You can use HTML to insert links, images and special characters like &copy ."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2005
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Mantra's (even the custom options specified right here in the Mantra "
+"Settings page). <br> Your custom CSS will be preserved when updating the "
+"theme.<br> The &ltstyle&gt tags are not needed."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2012
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software).<br> The &ltscript&gt tags are not needed."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2025
+msgid ""
+"Enable Mantra's Search Engine Optimization. This is enabled by default and "
+"should only be disabled if you are using a SEO plugin."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2037
+msgid "Auto"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/admin/settings.php:2037
+msgid "Manual"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:28
+msgid "says:"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:41
+msgid "at"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:41
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:58
+msgid "(Edit)"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:58
+msgid "Pingback: "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:85
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:85
+msgid "<b>1</b> Comment"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:85
+msgid "<b>%</b> Comments"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:107
+msgid "Older Comments"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-comments.php:108
+msgid "Newer Comments"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-functions.php:280
+msgid "Home Page"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-functions.php:344
+msgid "Powered by"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:145
+msgid "By "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:185
+msgid " Bookmark the "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:185
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:187
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:189
+msgid "Permalink to"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:185
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:187
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:189
+msgid "permalink"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:187
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:189
+msgid "Bookmark the "
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:211
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-loop.php:212
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-seo.php:26
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:90
+msgid "Primary Navigation"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:91
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:92
+msgid "Footer Navigation"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:127
+msgid "mantra"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:186
+msgid "Skip to content"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:213
+msgid "Primary Widget Area - Sidebar 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:215
+msgid "Primary widget area - Sidebar 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:224
+msgid "Secondary Widget Area - Sidebar 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:226
+msgid "Secondary widget area - Sidebar 1"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:235
+msgid "Third Widget Area - Sidebar 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:237
+msgid "Third widget area - Sidebar 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:246
+msgid "Fourth Widget Area - Sidebar 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:248
+msgid "Fourth widget area  - Sidebar 2"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:257
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:259
+msgid "First footer widget area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:268
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:270
+msgid "Second footer widget area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:279
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:281
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:290
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:292
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:301
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:303
+msgid "Above content Widget Area"
+msgstr ""
+
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:312
+#: C:\Users\K\Desktop\mantra/includes/theme-setup.php:314
+msgid "Below Content Widget Area"
+msgstr ""
