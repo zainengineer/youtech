@@ -14,16 +14,23 @@
  * @package WordPress
  */
 
+ $local = (stripos(__FILE__,'g:')===0); 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'youtechc_wrdp1');
-
+$dbUserName ='youtechc_wrdp1';
 /** MySQL database username */
-define('DB_USER', 'youtechc_wrdp1');
 
+if ($local){
+	$dbUserName = 'root';
+}
+define('DB_USER', $dbUserName);
+$dbPassword = 'CXtq4q0TSFDV';
+if ($local){
+	$dbPassword = '';
+}
 /** MySQL database password */
-define('DB_PASSWORD', 'CXtq4q0TSFDV');
-
+define('DB_PASSWORD', $dbPassword);
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
