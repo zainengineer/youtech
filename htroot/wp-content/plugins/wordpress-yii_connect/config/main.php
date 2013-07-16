@@ -40,7 +40,7 @@ $config = array(
 //        ),
         'assetManager' => array(
             'basePath' => YC_PATH . 'assets',
-            'baseUrl' => YC_PATH . 'assets',
+            'baseUrl' => YC_URL . 'assets',
         ),
         'clientScript' => array(
             'class' => 'YCClientScript',
@@ -67,6 +67,6 @@ $config = array(
 $local = array();
 $localFile = dirname(__FILE__) . '/main.local.php';
 if (file_exists($localFile)) {
-    $local = require($localFile);
+    $local = include($localFile);
 }
 return CMap::mergeArray($config, $local);

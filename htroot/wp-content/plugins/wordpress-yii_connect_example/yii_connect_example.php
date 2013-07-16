@@ -21,22 +21,51 @@ if (!function_exists('add_action')) {
     echo 'Yii Connect Example cannot be called directly.';
     exit;
 }
-
-// ensure YC is loaded
-if (!defined('YC_VERSION') || !YC::$loaded) {
-    return;
-}
-
 // define constants
 define('YC_EXAMPLE_VERSION', '0.1.0');
 define('YC_EXAMPLE_URL', plugin_dir_url(__FILE__));
 define('YC_EXAMPLE_PATH', plugin_dir_path(__FILE__));
+function yii_connect_example_init()
+{
+    if (defined('YC_EXAMPLE_LOADED')){
+        return;
+    }
+    if (!class_exists('YiiConnect') || !YiiConnect::init() || empty(YiiConnect::$loaded)){
+        define('YC_EXAMPLE_LOADED', false);
+        echo "<br/> loaded is false <br/>\r\n";
+        die;
+        return;
+        //return  new WP_Error('yii_connect', __("Yii Connect example can't work without using Yii Connect"));
+    }
+    define('YC_EXAMPLE_LOADED', true);
+    // load YCExample
+    require_once(YC_EXAMPLE_PATH . 'components/YiiConnectExample.php');
 
-// load YCExample
-require_once(YC_EXAMPLE_PATH . 'components/YCExample.php');
+    // set the view path
+    YiiConnectExample::$basePath = str_replace('\\', '/', YC_EXAMPLE_PATH);
+    // load the init
+    YiiConnectExample::init();
+}
 
-// set the view path
-YCExample::$basePath = str_replace('\\', '/', YC_EXAMPLE_PATH);
+function showAdminMessages()
+{
+    if (!YC_EXAMPLE_LOADED){
+        $message = "Yii Connect example can't work without using Yii Connect";
+        echo '<div id="message" class="error">';
+        echo "<p><strong>$message</strong></p></div>";
+    }
 
-// load the init
-add_action('init', 'YCExample::init');
+    // Only show to admins
+//    if (user_can('manage_options')) {
+//        echo '<div id="message" class="error">';
+//
+//     }
+}
+
+/**
+ * Call showAdminMessages() when showing other admin
+ * messages. The message only gets shown in the admin
+ * area, but not on the frontend of your WordPress site.
+ */
+add_action('admin_notices', 'showAdminMessages');
+add_action('init', 'yii_connect_example_init');

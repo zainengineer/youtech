@@ -1,3 +1,4 @@
 .idea
 .git
 *.dat
+htroot/wp-content/plugins/wordpress-yii_connect/runtime/*

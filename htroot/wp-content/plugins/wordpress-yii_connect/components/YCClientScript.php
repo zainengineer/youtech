@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Class YCClientScript
+ * Class YiiConnectClientScript
  */
 class YCClientScript extends CClientScript
 {

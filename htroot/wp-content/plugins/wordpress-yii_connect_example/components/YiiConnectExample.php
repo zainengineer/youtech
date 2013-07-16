@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class YCExample
+ * Class YiiConnectExample
  */
-class YCExample extends YCPlugin
+class YiiConnectExample extends YCPlugin
 {
 
     /**
@@ -12,11 +12,10 @@ class YCExample extends YCPlugin
     public static function init()
     {
         parent::init();
-
         // add admin menu
         if (is_admin()) {
-            add_action('admin_menu', 'YCExample::adminMenu');
-            add_action('admin_enqueue_scripts', 'YCExample::registerScripts');
+            add_action('admin_menu', 'YiiConnectExample::adminMenu');
+            add_action('admin_enqueue_scripts', 'YiiConnectExample::registerScripts');
         }
     }
 
@@ -25,10 +24,10 @@ class YCExample extends YCPlugin
      */
     public static function adminMenu()
     {
-        add_menu_page('Yii Connect Example', 'Yii Connect Example', 'manage_options', 'yii-connect-example', 'YCExample::actionIndex', YC_EXAMPLE_URL . 'img/icon-menu.png', '11');
-        add_submenu_page('yii-connect-example', 'Create Ticket', 'Create', 'manage_options', 'yii-connect-example-form', 'YCExample::actionForm');
-        add_submenu_page(null, 'Yii Connect Example - View', 'View', 'manage_options', 'yii-connect-example-view', 'YCExample::actionView');
-        add_submenu_page(null, 'Yii Connect Example - Delete', 'Delete', 'manage_options', 'yii-connect-example-delete', 'YCExample::actionDelete');
+        add_menu_page('Yii Connect Example', 'Yii Connect Example', 'manage_options', 'yii-connect-example', 'YiiConnectExample::actionIndex', YC_EXAMPLE_URL . 'img/icon-menu.png', '11');
+        add_submenu_page('yii-connect-example', 'Create Ticket', 'Create', 'manage_options', 'yii-connect-example-form', 'YiiConnectExample::actionForm');
+        add_submenu_page(null, 'Yii Connect Example - View', 'View', 'manage_options', 'yii-connect-example-view', 'YiiConnectExample::actionView');
+        add_submenu_page(null, 'Yii Connect Example - Delete', 'Delete', 'manage_options', 'yii-connect-example-delete', 'YiiConnectExample::actionDelete');
     }
 
     /**
