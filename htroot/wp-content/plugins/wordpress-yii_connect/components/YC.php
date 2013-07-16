@@ -17,7 +17,24 @@ class YC
     public static function init()
     {
         // add the options
-        $yiiPath = str_replace('\\', '/', realpath(YC_PATH . '../../../../yii/framework/yii.php'));
+
+        $paths = array(
+            '../../../../yii/framework/yii.php',
+            '../../../yii/framework/yii.php',
+            '../../yii/framework/yii.php',
+            '../yii/framework/yii.php',
+            '/yii/framework/yii.php',
+            'framework/yii.php',
+        );
+
+        foreach ($paths as $path) {
+            $yiiPath = YC_PATH . $path;
+            if (file_exists($yiiPath)){
+                $yiiPath = realpath($yiiPath);
+                break;
+            }
+        }
+        $yiiPath = str_replace('\\', '/', $yiiPath);
         add_option('yii_path', $yiiPath);
 
         // set debug level reporting
@@ -38,6 +55,9 @@ class YC
 
         // yii path
         $yii = get_option('yii_path');
+        if (!$yii){
+            $yii = $yiiPath;
+        }
         if (!self::validYiiPath($yii)) {
             return false;
         }
@@ -51,6 +71,7 @@ class YC
         require_once(YC_PATH . 'components/YCWebApplication.php');
         Yii::$enableIncludePath = false;
         $app = Yii::createApplication('YCWebApplication', $config);
+        require_once(YC_PATH . 'components/YCClientScript.php');
         $app->controller = new CController('site');
         $app->controller->setAction(new CInlineAction($app->controller, 'index'));
 
@@ -73,7 +94,9 @@ class YC
     public static function bufferEnd()
     {
         $output = ob_get_clean();
-        Yii::app()->getClientScript()->render($output);
+        if (Yii::app() && Yii::app()->getClientScript()){
+            Yii::app()->getClientScript()->render($output);
+        }
         echo $output;
     }
 

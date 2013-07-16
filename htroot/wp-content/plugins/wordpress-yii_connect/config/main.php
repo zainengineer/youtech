@@ -7,8 +7,8 @@ $config = array(
     'id' => 'yii_connect',
     'name' => 'Yii Connect',
 
-    'basePath' => YII_CONNECT_PATH,
-    'runtimePath' => YII_CONNECT_PATH . 'runtime',
+    'basePath' => YC_PATH,
+    'runtimePath' => YC_PATH . 'runtime',
 
     // preload log as per yii requirements
     'preload' => array('log'),
@@ -25,22 +25,25 @@ $config = array(
             'class' => 'CFileCache',
         ),
         'cache' => array(
-            'class' => 'CMemCache',
-            'keyPrefix' => $_SERVER['HTTP_HOST'],
-            'servers' => array(
-                array(
-                    'host' => '127.0.0.1',
-                    'port' => 11211,
-                    'weight' => 10,
-                ),
-            ),
+            'class' => 'CFileCache',
         ),
+//        'cache' => array(
+//            'class' => 'CMemCache',
+//            'keyPrefix' => $_SERVER['HTTP_HOST'],
+//            'servers' => array(
+//                array(
+//                    'host' => '127.0.0.1',
+//                    'port' => 11211,
+//                    'weight' => 10,
+//                ),
+//            ),
+//        ),
         'assetManager' => array(
-            'basePath' => YII_CONNECT_PATH . 'assets',
-            'baseUrl' => YII_CONNECT_URL . 'assets',
+            'basePath' => YC_PATH . 'assets',
+            'baseUrl' => YC_PATH . 'assets',
         ),
         'clientScript' => array(
-            'class' => 'YiiConnectClientScript',
+            'class' => 'YCClientScript',
         ),
         'db' => array(
             'connectionString' => 'mysql:host=' . DB_HOST . ';dbname=' . DB_NAME,
